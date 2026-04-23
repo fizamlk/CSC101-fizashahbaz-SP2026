@@ -1,1 +1,3 @@
-# CSC101-fizashahbaz-SP2026
+Name: Fiza Shahbaz
+Course: CSC101
+Section: ELC-1A
